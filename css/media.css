@@ -1,0 +1,287 @@
+@media (max-width: 1200px) {
+/* Hero Block */
+    .hero-content h1 {
+        font-size: 3.5rem;
+    }
+}
+
+@media (max-width: 1024px) {
+
+    /* Header */
+    .header .navbar-brand img {
+        max-width: 10rem;
+    }
+
+    /* Hero Block */
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .hero-content p {
+        font-size: 1.25rem;
+    }
+
+    /* Heading Group */
+    .hgroup>h2 {
+        font-size: 1.75rem;
+    }
+
+    /* Team Block */
+    .team-member {
+        border-radius: 2.5rem;
+    }
+
+    .team-card>span {
+        right: 1.5rem;
+    }
+
+    .team-card>a {
+        width: 80%;
+    }
+
+    /* Service Block */
+    .service-inner {
+        padding: 3rem;
+        border-radius: 2.5rem;
+    }
+}
+
+@media (max-width: 991px) {
+
+    /* Hero Block */
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .hero-content p {
+        font-size: 1.25rem;
+    }
+
+    /* Heading Group */
+    .hgroup>h2 {
+        font-size: 1.75rem;
+    }
+
+    /* Team Block */
+    .team-member {
+        border-radius: 2.5rem;
+    }
+
+    .team-card>span {
+        right: 1.5rem;
+    }
+
+    .team-card>a {
+        width: 80%;
+    }
+
+    /* Service Block */
+    .service-inner {
+        padding: 3rem;
+        border-radius: 2.5rem;
+    }
+
+        .service-card>img {
+            max-width: 3rem;
+        }
+}
+
+@media (max-width: 767px) {
+
+    /* Hero Block */
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .hero-content p {
+        font-size: 1.25rem;
+    }
+
+    /* Heading Group */
+    .hgroup>h2 {
+        font-size: 1.75rem;
+    }
+
+    /* Team Block */
+    .team-member {
+        border-radius: 2.5rem;
+    }
+
+    .team-card>span {
+        right: 1.5rem;
+    }
+
+    .team-card>a {
+        width: 80%;
+    }
+
+    /* Service Block */
+    .service-inner {
+        padding: 3rem;
+        border-radius: 2.5rem;
+    }
+
+    /* News */
+    .news-block {
+        padding: 3rem 1rem !important;
+        border-radius: 2.5rem;
+    }
+
+        /* Testimonials */
+        .testimonial-item>p {
+            font-size: 1rem;
+        }
+    
+        .testimonial-item {
+            padding: 0 1rem;
+            padding-left: 1.5rem;
+            background-size: 1rem;
+        }
+    
+        .testimonial-block .carousel-control-prev,
+        .testimonial-block .carousel-control-next {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+    
+        .testimonial-item .author>img {
+            width: 2.5rem;
+        }
+    
+        .testimonial-item .author>.author-info>h5 {
+            font-size: 1rem;
+        }
+}
+
+@media (max-width: 567px) {
+
+    /* Hero Block */
+    .hero-content h1 {
+        font-size: 3rem;
+    }
+
+    .hero-content p {
+        font-size: 1.25rem;
+    }
+
+    /* Heading Group */
+    .hgroup>h2 {
+        font-size: 1.75rem;
+    }
+
+    /* Team Block */
+    .team-member {
+        border-radius: 2.5rem;
+    }
+
+    .team-card>span {
+        right: 1.5rem;
+    }
+
+    .team-card>a {
+        width: 80%;
+    }
+
+    /* Service Block */
+    .service-inner {
+        padding: 3rem;
+        border-radius: 2.5rem;
+    }
+
+        /* Testimonials */
+        .testimonial-item>p {
+            font-size: 1rem;
+        }
+    
+        .testimonial-item {
+            padding: 0 1rem;
+            padding-left: 1.5rem;
+            background-size: 1rem;
+        }
+    
+        .testimonial-block .carousel-control-prev,
+        .testimonial-block .carousel-control-next {
+            width: 2.5rem;
+            height: 2.5rem;
+        }
+    
+        .testimonial-item .author>img {
+            width: 2.5rem;
+        }
+    
+        .testimonial-item .author>.author-info>h5 {
+            font-size: 1rem;
+        }
+}
+
+@media (max-width: 320px) {
+
+    /* Hero Block */
+    .hero-content h1 {
+        font-size: 1.5rem;
+    }
+
+    .hero-content p {
+        font-size: 1rem;
+    }
+
+    /* Heading Group */
+    .hgroup>h2 {
+        font-size: 1.75rem;
+    }
+
+    /* Team Block */
+    .team-member {
+        border-radius: 2.5rem;
+    }
+
+    .team-card>span {
+        right: 1.5rem;
+    }
+
+    .team-card>a {
+        width: 80%;
+    }
+
+    /* Service Block */
+    .service-inner {
+        padding: 1rem;
+        border-radius: 1.5rem;
+    }
+
+    .service-card {
+        gap: 0rem;
+        flex-direction: column;
+    }
+
+    /* News */
+    .news-block {
+        padding: 3rem 1rem !important;
+        border-radius: 2.5rem;
+    }
+
+    /* Testimonials */
+    .testimonial-item>p {
+        font-size: 1rem;
+    }
+
+    .testimonial-item {
+        padding: 0 1rem;
+        padding-left: 1.5rem;
+        background-size: 1rem;
+    }
+
+        .testimonial-block .carousel-control-prev,
+        .testimonial-block .carousel-control-next {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .testimonial-item .author>img {
+        width: 2.5rem;
+    }
+
+    .testimonial-item .author>.author-info>h5 {
+        font-size: 1rem;
+    }
+}
