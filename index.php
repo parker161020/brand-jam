@@ -583,7 +583,7 @@
             <div class="row py-3">
                 <div class="col-12">
                     <p class="text-center">
-                        Copyright &copy; <?= date("Y"); ?> <span class="text-red">CyberForte</span>. All Rights Reserved
+                        Copyright &copy; <?php echo "2025"; ?> <span class="text-red">CyberForte</span>. All Rights Reserved
                     </p>
                 </div>
             </div>
